@@ -1,1 +1,2 @@
-# Actividad-1-FisEst
+# Actividad-1-FisEst## Equipo: FisEst
+### Integrante: Nadia Xolo
